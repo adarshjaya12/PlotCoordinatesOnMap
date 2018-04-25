@@ -1,0 +1,11 @@
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\bin\Debug\netcoreapp2.0\PlotOnMap.deps.json
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\bin\Debug\netcoreapp2.0\PlotOnMap.runtimeconfig.json
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\bin\Debug\netcoreapp2.0\PlotOnMap.runtimeconfig.dev.json
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\bin\Debug\netcoreapp2.0\PlotOnMap.dll
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\bin\Debug\netcoreapp2.0\PlotOnMap.pdb
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\obj\Debug\netcoreapp2.0\PlotOnMap.csproj.CoreCompileInputs.cache
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\obj\Debug\netcoreapp2.0\PlotOnMap.AssemblyInfoInputs.cache
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\obj\Debug\netcoreapp2.0\PlotOnMap.AssemblyInfo.cs
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\obj\Debug\netcoreapp2.0\PlotOnMap.dll
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\obj\Debug\netcoreapp2.0\PlotOnMap.pdb
+C:\Users\AJ-PC\source\repos\PlotOnMap\PlotOnMap\obj\Debug\netcoreapp2.0\PlotOnMap.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿@using PlotOnMap.Models
+@model HomeModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    @using (Html.BeginForm("Index", "Mapping", FormMethod.Post))
+    {
+        @Html.Label("Latitude")
+        @Html.TextBoxFor(m => m.latitude)
+
+        @Html.Label("longitude")
+        @Html.TextBoxFor(m => m.longitude)
+        
+        @Html.Label("Distance")
+        @Html.TextBoxFor(m => m.distance)
+
+        <button type="submit"> Submit</button>
+    }
+</head>
+<body>
+    
+</body>
+</html>
